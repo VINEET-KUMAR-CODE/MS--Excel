@@ -1,3 +1,7 @@
+## 📎 Presentation
+
+👉 PPT Download: https://docs.google.com/presentation/d/1ZXxLnH7fIMpBrqLYwkC7YVaY92mI2Whb/edit?usp=drive_link&ouid=107535558646864346373&rtpof=true&sd=true
+
 # 🛒 Blinkit Sales Analysis Dashboard
 
 ## 🎯 Key Objectives
