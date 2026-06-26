@@ -85,10 +85,10 @@ A professional Project Tracker Dashboard built in Microsoft Excel to monitor pro
 - 🎨 Conditional Formatting
 - 📊 Charts & Icons
 --
-🚀 Use Cases
-💼 Project Management
-👨‍💻 Team Progress Tracking
-🏢 Business Operations
+### 🚀 Use Cases
+- 💼 Project Management
+- 👨‍💻 Team Progress Tracking
+- 🏢 Business Operations
 
 
 ## 🛠️ Tools & Excel Features Used
