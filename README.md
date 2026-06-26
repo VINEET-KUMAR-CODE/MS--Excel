@@ -94,11 +94,34 @@ A healthcare analytics dashboard built to monitor emergency room efficiency and 
 🔍 Problem Solving  
 
 ---
+## 📊 Excel Project Tracker
+A professional Project Tracker Dashboard built in Microsoft Excel to monitor project progress across different stages. It provides a clear overview of project completion, pending tasks, and overall status using automated formulas and visual indicators.
+
+✨ Features
+📋 Track multiple projects
+✅ Stage-wise progress monitoring
+📊 Automatic completion calculation
+📈 Progress & pending percentage
+🎨 Clean and user-friendly dashboard
+⚡ Formula-based automation (No VBA)
+---
+🛠️ Built With
+📗 Microsoft Excel
+🧮 Excel Formulas
+🎨 Conditional Formatting
+📊 Charts & Icons
+--
+🚀 Use Cases
+💼 Project Management
+👨‍💻 Team Progress Tracking
+🏢 Business Operations
+
 ## 📂 Repository Structure
 
 - 🛒 Blinkit Sales Analysis
 - ☕ Coffee Sales Analysis
 - 🏥 Hospital Emergency Room Analysis
+- 📊 Excel Project Tracker
 
 Each project folder contains:
 - 📊 Excel Dashboard File (.xlsx)
